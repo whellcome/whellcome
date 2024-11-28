@@ -35,7 +35,7 @@ Explore some of my key works that demonstrate my dedication to impactful solutio
 
 ## **How You Can Support**
 
-Your support can make a difference! If you’ve found value in my projects or believe in their potential, consider supporting me on [Buy Me a Coffee](https://www.buymeacoffee.com/username). Every contribution helps me dedicate more time to creating innovative tools and improving existing ones.
+Your support can make a difference! If you’ve found value in my projects or believe in their potential, consider supporting me on [Buy Me a Coffee](https://www.buymeacoffee.com/whellcome). Every contribution helps me dedicate more time to creating innovative tools and improving existing ones.
 
 ---
 
