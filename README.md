@@ -23,6 +23,8 @@ Explore some of my key works that demonstrate my dedication to impactful solutio
 - 🥗 **[NutritionCalculator](https://github.com/whellcome/NutritionCalculator)**: A tool that not only helps plan healthy diets but also calculates insulin doses for diabetics. This project is currently evolving to better serve its users. <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" width="23">
 
 - 📊 **[Fuels Price Visualization](https://github.com/whellcome/all_fuels_viz)**: Provides a graphical user interface (GUI) for visualizing and comparing historical fuel and natural gas prices. <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="60">
+
+- 🌷 **[Modernizing Zoo](https://github.com/whellcome/CityZoo)**: Data Engineering Project. Operational Database, Data Warehouse Design and Architecture <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" width="60">
 <!-- This is hidden: - 🚤 **[Marine Object Detection](https://github.com/username/MarineDetection)**: A deep learning project that leverages YOLO models to support rescue operations at sea. -->
 
 ---
