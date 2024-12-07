@@ -34,7 +34,7 @@ Explore some of my key works that demonstrate my dedication to impactful solutio
 
 ## **GitHub Stats**
 
-![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whellcome&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whellcome&theme=tokyonight&custom_title=Languages%20I%20use) 
+![My GitHub stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=whellcome&theme=tokyonight) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=whellcome&theme=tokyonight&custom_title=Languages%20I%20use&hide=html) 
 
 ---
 
